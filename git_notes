@@ -1,0 +1,15 @@
+creating a repositary : akways do git init
+
+making changes to the repositary : git status
+git add 
+git commit 
+
+parallel development: git merge 
+git branch 
+git rebase
+
+syncing process:
+git add
+git push
+git pull
+
